@@ -10,11 +10,6 @@
 
 I am an Informatics graduate from Telkom University with practical experience across manufacturing, defense technology, and sports analytics. I specialize in applying data analytics and machine learning to solve operational and business challenges. Currently, I am seeking opportunities to leverage my skills as a Data Analyst, Data Scientist, or Machine Learning Engineer.
 
-### About Me
-- **Experience:** Interned as a Data Analyst & ML Engineer at DCVI (Mercedes-Benz), Unilever Indonesia, PT. Len Industri, and PT. Tekno Sport, focusing on workflow automation, predictive modeling, and analytical dashboards.
-- **Academics:** Graduated with a 3.59 GPA, with research accepted for presentation at the IEEE EECCIS 2026 conference.
-- **Focus:** Transforming complex datasets into actionable insights, building machine learning models, and developing end-to-end data pipelines.
-
 ### Technical Skills
 - **Programming & Database:** Python, SQL
 - **Data Visualization & BI:** Power BI, Tableau, Microsoft Excel
